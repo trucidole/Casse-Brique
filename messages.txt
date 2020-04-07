@@ -1,3 +1,5 @@
 > 24/03 10h-12h
 EM - Bonjour, dans ce fichier, si nous sommes connectés, nous pouvons discuter en direct (chatter) en cas de besoin ;
 EM - Ou y laisser des questions/commentaires d'une connection sur l'autre...
+GC - Je n'arrive pas à enlever la trainée de la balle, j'ai trouvé une façon de raffraichir mais celle_ci est soit inefficace soit 
+fait disparaître la balle et la barre avec. auriez vous un conseil?

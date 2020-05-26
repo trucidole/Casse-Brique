@@ -40,6 +40,8 @@ function setup(){
     for (let i = 0; i < width; i += longbrique) {
       fill(255, 0, 0);
       rect(i, u, longbrique, largbrique);
+      drawSprites();
+      
     }
   }
 }
@@ -80,7 +82,10 @@ function rebond() {
   ) {
     direction_Y = -1;
   }
-
+  //rebond bloc
+  
+  
+  
   //perdu
   if (deplacement_balle_sur_y >= largjeux) {
     alert("Perdu");
